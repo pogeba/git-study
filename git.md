@@ -55,7 +55,7 @@
 
 -   git reset --hard origin/branch_name      #git 本地改动了，不保留，直接拉取线上最新代码
 
-- 
+-                                              #如何进行远程版本回溯
 
   
 
