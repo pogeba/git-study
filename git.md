@@ -44,7 +44,7 @@
 
 
 - git push origin feature_x:feature_x     # 将本地分支与远程分支同步
-- git pull origin feature_x:feature_x    # 将本地分支与远程分支同步
+- git pull origin feature_x:feature_x    # 用于从远程获取feature_x分支代码并合并到本地当前分支，同时创建新分支feature_x的命令
 
 - ```
   git checkout -b dev   #-b参数表示创建dev分支并切换至dev分支
