@@ -55,7 +55,9 @@
 
 -   git reset --hard origin/branch_name      #git 本地改动了，不保留，直接拉取线上最新代码
 
--   git checkout commit_id                #回退到commit_id版本的代码
+
+-   git checkout commit_id                #回退到远程commit_id版本的代码
+
 
   
 
