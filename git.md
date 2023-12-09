@@ -42,6 +42,10 @@
 
 - git push -u origin master  #把当前分支`master`推送到远程 ，-u 把本地的`master`分支和远程的`master`分支关联起来 ，这样以后直接用 git push origin master就行
 
+
+- git push origin feature_x:feature_x     # 将本地分支与远程分支同步
+- git pull origin feature_x:feature_x    # 将本地分支与远程分支同步
+
 - ```
   git checkout -b dev   #-b参数表示创建dev分支并切换至dev分支
   git branch dev        #创建分支
